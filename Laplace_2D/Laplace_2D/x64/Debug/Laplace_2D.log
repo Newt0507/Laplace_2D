@@ -1,0 +1,8 @@
+﻿  Source.c
+D:\B. Study\HPC\Laplace_2D\Laplace_2D\Source.c(146,124): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\B. Study\HPC\Laplace_2D\Laplace_2D\Source.c(181,12): warning C4101: 'j': unreferenced local variable
+D:\B. Study\HPC\Laplace_2D\Laplace_2D\Source.c(332,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\B. Study\HPC\Laplace_2D\Laplace_2D\Source.c(349,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\B. Study\HPC\Laplace_2D\Laplace_2D\Source.c(350,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\B. Study\HPC\Laplace_2D\Laplace_2D\Source.c(384,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Laplace_2D.vcxproj -> D:\B. Study\HPC\Laplace_2D\x64\Debug\Laplace_2D.exe
